@@ -1,0 +1,96 @@
+{
+  "logins": [
+    {
+      "nome": "igor",
+      "id": "igor@email.com",
+      "senha": "1234",
+      "telefone": "(99)99999.9999",
+      "cpf": "9999999999999"
+    },
+    {
+      "nome": null,
+      "senha": null,
+      "telefone": null,
+      "cpf": null,
+      "id": "uKZtIgO"
+    },
+    {
+      "nome": "peter",
+      "id": "peter@email.com",
+      "senha": "1234",
+      "telefone": "(99)99999.9999",
+      "cpf": "99999999999999"
+    },
+    {
+      "nome": "pedro",
+      "id": "pedro2@email.com",
+      "senha": "1234",
+      "telefone": "(99)99999.9999",
+      "cpf": "99999999999999"
+    },
+    {
+      "nome": null,
+      "id": "fhKnQDK",
+      "senha": null,
+      "telefone": null,
+      "cpf": null
+    },
+    {
+      "nome": null,
+      "id": "Qd0ix6o",
+      "senha": null,
+      "telefone": null,
+      "cpf": null
+    },
+    {
+      "nome": null,
+      "id": "5bVajMy",
+      "senha": null,
+      "telefone": null,
+      "cpf": null
+    },
+    {
+      "nome": null,
+      "id": "xAsPnDe",
+      "senha": null,
+      "telefone": null,
+      "cpf": null
+    },
+    {
+      "nome": "igor",
+      "id": "igor3@email.com",
+      "senha": "12345",
+      "telefone": "(99)99999.9999",
+      "cpf": "9999999999999"
+    },
+    {
+      "nome": "pablo",
+      "id": "pablo@email.com",
+      "senha": "12345",
+      "telefone": "(99)99999.9999",
+      "cpf": "99999999999999"
+    },
+    {
+      "nome": "fabio",
+      "id": "fabio@email.com",
+      "senha": "12345",
+      "telefone": "(99)99999.9999",
+      "cpf": "999999999999999"
+    },
+    {
+      "nome": "oi",
+      "id": "oi@email.com",
+      "senha": "1234",
+      "telefone": "(99)99999.9999",
+      "cpf": "999999999999"
+    },
+    {
+      "nome": "eu",
+      "id": "eu@email.com",
+      "senha": "12345",
+      "telefone": "(99)99999.9999",
+      "cpf": "999999999999"
+    }
+  ],
+  "movies": []
+}
